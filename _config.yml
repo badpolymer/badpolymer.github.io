@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-#
+# bundle exec jekyll serve --watch
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -17,13 +17,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# description: "Versatile developer, system analyst, and testing specialist with expertise in security testing, performance testing, and database testing. Proficient in creating REST APIs, I bring a comprehensive approach to system analysis, design, and development. My skills encompass analyzing complex systems, designing efficient solutions, and implementing them across various platforms. I excel in ensuring the security and robustness of applications through thorough security testing practices. Additionally, I specialize in optimizing application performance and ensuring database integrity through effective performance and database testing strategies. Whether crafting responsive and user-friendly websites, architecting robust software solutions, developing elegant iOS applications, creating REST APIs, or implementing rigorous testing methodologies, my goal is to deliver secure, high-performance applications with a focus on optimal functionality and a superior user experience."
+# description: "Versatile developer, system analyst, and automated testing enthusiast with a strong foundation in system analysis, design, web development, software engineering, and iOS app development. I specialize in analyzing complex systems, designing efficient solutions, and implementing them across various platforms. My expertise extends to automated testing frameworks like Jest, where I ensure the reliability and functionality of applications. Whether creating responsive and user-friendly websites, architecting robust software solutions, developing elegant iOS applications, or implementing effective automated testing strategies, I bring a holistic approach to the development lifecycle. My goal is to deliver high-quality, maintainable code and seamless user experiences across diverse technological landscapes."
 
 title: Frederick's Space
-email: your-email@example.com
+email: frederickvision@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Versatile developer, system analyst, and testing specialist with a strong foundation in
+  system analysis, design, web development, software engineering, and iOS app development.
+  I specialize in analyzing complex systems, designing efficient solutions, and implementing them across various platforms.
+  My skills extend to automated testing, security testing, performance testing, and database testing.
+  Whether crafting responsive and user-friendly websites, architecting robust software solutions, 
+  developing elegant iOS applications, creating REST APIs, or implementing rigorous testing methodologies, 
+  my goal is to deliver high-quality, maintainable code and to create secure, high-performance applications 
+  with a focus on optimal functionality and a superior user experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://badpolymer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
