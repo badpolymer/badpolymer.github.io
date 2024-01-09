@@ -10,3 +10,5 @@ main:
     url: /mywork/
   # - title: "Ongoing Projects"
   #   url: /404/
+  - title: "Posts by year"
+    url: /postsbyyear/

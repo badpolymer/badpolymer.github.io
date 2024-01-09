@@ -1,5 +1,5 @@
 ---
-layout: posts
+# layout: posts
 title:  "Virtual Immersive Clinical Collaborations and Encounters"
 # date:   2024-01-08 03:27:07 +0000
 categories: work
