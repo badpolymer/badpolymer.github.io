@@ -1,17 +1,18 @@
 ---
-# layout: posts
-title:  "Happy New Yea!!!r!"
-date:   2024-01-08 03:27:07 +0000
+# layout: posts 
+title:  "Site Under Construction"
+date:   2024-01-09 03:27:07 +0000
 categories: work
-description: MEhehehalsd,,sajd
-tags: education
+description: Site Under Construction
+tags: 
 highlight_home: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
-  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  overlay_image: https://images.unsplash.com/photo-1625470496744-a01bf36a262f
+  teaser: https://images.unsplash.com/photo-1625470496744-a01bf36a262f
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Everything is under construction.
 
 Jekyll requires blog post files to be named according to the following format:
 
