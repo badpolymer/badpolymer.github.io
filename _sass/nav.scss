@@ -6,12 +6,41 @@
     background-color: transparent;
 }
 
-#site-nav a,
-#site-nav a:visited {
+// #site-nav a,
+// #site-nav a:visited {
+//     color: #103966;
+// }
+
+#site-nav a:hover {
     color: #103966;
 }
 
 #site-nav a,
 #site-nav a:visited {
     font-family: "Rubik";
+}
+
+#site-nav .hidden-links>.masthead__menu-item a:hover {
+    color: #00adb5;
+}
+#site-nav .hidden-links>.masthead__menu-item a {
+    color: #F9D423;
+}
+
+.masthead__menu a,
+.masthead__menu a:visited {
+    color: #b95900;
+}
+
+.navicon,
+.navicon::after,
+.navicon::before {
+    background: #b95900;
+}
+
+.greedy-nav__toggle:hover .navicon::after,
+.greedy-nav__toggle:hover .navicon::before,
+.greedy-nav__toggle:hover .navicon {
+    background: #103966;
+
 }

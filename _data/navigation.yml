@@ -8,5 +8,5 @@ main:
     url: /about/
   - title: "My work"
     url: /mywork/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Ongoing Projects"
+  #   url: /404/

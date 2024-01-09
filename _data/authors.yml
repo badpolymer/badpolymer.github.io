@@ -1,11 +1,11 @@
 Frederick:
   name        : "Frederick"
-  bio         : "Let's talk about code! Reach out via the links below."
+  bio         : "Software Developer / Web Developer / iOS APP Developer"
   avatar      : "https://placehold.co/400"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "mailto:frederickvision@hotmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/freddzai/"

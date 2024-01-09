@@ -5,5 +5,3 @@ permalink: /mywork/
 author: Frederick
 author_profile: ture
 ---
-
-### My Work
