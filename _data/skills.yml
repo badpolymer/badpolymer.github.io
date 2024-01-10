@@ -1,15 +1,72 @@
 technical:
- - title: CSS and SCSS
-   level: Intermediate
- - title: HTML5
-   level: Intermediate
- - title: JavaScrpt
-   level: Advanced
- - title: ReactJS
-   level: Advanced
+  lang:
+    - title: HTML5 and CSS
+      level: Advanced
+    - title: TypeScript and JavaScrpt
+      level: Intermediate
+    - title: Python
+      level: Intermediate
+    - title: C# 
+      level: Intermediate
+    - title: Swift 
+      level: Intermediate
+  
+  db:
+    - title: Transact-SQL
+      level: Intermediate
+    - title: PostgreSQL
+      level: Intermediate
+    - title: MySQL
+      level: Intermediate
+    - title: Realm
+      level: Advanced
+    - title: MongoDB
+      level: Advanced
+    - title: TypeORM
+      level: Advanced
+
+  fw:
+    - title: ASP .NET CORE MVC 
+      level: Intermediate
+    - title: Django 
+      level: Intermediate
+
+  qa:
+    - title: Jest
+      level: Intermediate
+    - title: Nunit
+      level: Intermediate
+    - title: Selenium
+      level: Intermediate
+    - title: Apache JMeter
+      level: Intermediate
+    - title: Nmap
+      level: Intermediate  
+    - title: Locust
+      level: Intermediate
+
+  other:
+    - title: Docker
+      level: Intermediate
 
 soft:
- - title: Writing
-   level: Intermediate
+ - title: Communication
+   level: Advanced
  - title: Leadership
    level: Intermediate
+ - title: Problem-solving
+   level: Advanced
+ - title: Teamwork
+   level: Advanced
+ - title: Cultural competence
+   level: Advanced
+ - title: Self-motivation
+   level: Advanced
+ - title: Coaching and mentoring
+   level: Intermediate
+ - title: Learning agility
+   level: Advanced
+ - title: Attention to detail
+   level: Advanced
+ - title: Problem analysis
+   level: Advanced
