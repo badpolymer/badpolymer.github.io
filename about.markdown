@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: About Me
 permalink: /about/
 # classes: wide
 toc: true

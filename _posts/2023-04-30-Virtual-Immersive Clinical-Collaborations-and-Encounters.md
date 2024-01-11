@@ -3,7 +3,7 @@
 title:  "Virtual Immersive Clinical Collaborations and Encounters"
 # date:   2024-01-08 03:27:07 +0000
 categories: work
-description: MEhehehalsd,,sajd
+description: Awarded capstone project in Conestoga College. It's a video communication application for healthcare providers and patients with multiple concurrent sessions and multiple participants.
 excerpt: Awarded capstone project in Conestoga College. It's a video communication application for healthcare providers and patients with multiple concurrent sessions and multiple participants.
 tags: 
   - Web 

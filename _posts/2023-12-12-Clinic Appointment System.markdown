@@ -1,10 +1,13 @@
 ---
 # layout: posts
-title:  "Welcome to Jekyll!"
-date:   2024-01-08 03:27:07 +0000
+title:  "Clinic Appointment"
+date:   2023-12-12 03:27:07 +0000
 categories: work
 description: MEhehehalsd,,sajd
-tags: education
+excerpt: Sample Project.
+tags: 
+  - Python
+  - Django
 highlight_home: true
 header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8

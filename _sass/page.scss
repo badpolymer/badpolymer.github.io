@@ -2,3 +2,20 @@
     // max-width: none;
     text-align: justify;
 }
+
+
+@media (min-width: 64em) {
+    .taxonomy__index {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.taxonomy__index {
+    grid-template-columns: repeat(3, 1fr);
+
+    @media (min-width: 64em) {
+
+        grid-template-columns: repeat(4, 1fr);
+
+    }
+}

@@ -10,6 +10,8 @@ technical:
       level: Intermediate
     - title: Swift 
       level: Intermediate
+    - title: C++ 
+      level: Beginner
   
   db:
     - title: Transact-SQL
