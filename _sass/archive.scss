@@ -42,6 +42,7 @@
 
     .archive__item-excerpt {
         display: none;
+        text-align: justify;
 
         @media (min-width: 48em) {
             display: block;
@@ -50,13 +51,20 @@
     }
 
     .archive__item-teaser {
-        @media (min-width: 37.5em) {
-            max-height: 200px;
-        }
+        // max-height: 120px;
+        height: 8em;
 
-        @media (min-width: 48em) {
-            max-height: 120px;
-        }
+        // @media (min-width: 37.5em) {
+        //     max-height: 200px;
+        // }
+
+        // @media (min-width: 48em) {
+        //     max-height: 120px;
+        // }
+
+        // @media (min-width: 48em) {
+        //     max-height: 120px;
+        // }
     }
 
     article.archive__item {
