@@ -6,9 +6,9 @@ main:
     url: /
   - title: "About Me"
     url: /about/
-  - title: "My work"
+  - title: "My Work"
     url: /mywork/
   # - title: "Ongoing Projects"
   #   url: /404/
-  - title: "Posts by year"
+  - title: "Posts By Year"
     url: /postsbyyear/

@@ -6,5 +6,8 @@ layout: home
 author: Frederick
 author_profile: ture
 ---
-![Image test](/assets/images/test.webp){: .avatar}
-# Hi! What is it?
+<!-- ![Image test](/assets/images/test.webp){: .avatar} -->
+
+# Hello World!
+Welcome to my space. I'm Frederick. Check out some of my favorite projects below or go to [**My Work**](/mywork) or [**Posts By Year**](/postsbyyear) to see a categorized list. 
+

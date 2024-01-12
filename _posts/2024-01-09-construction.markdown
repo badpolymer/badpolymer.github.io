@@ -1,9 +1,9 @@
 ---
 # layout: posts 
-title:  "Site Under Construction"
+title:  "Construction Complete!"
 date:   2024-01-09 03:27:07 +0000
 categories: work
-description: Site Under Construction
+description: Site Construction Done!
 tags: 
 highlight_home: true
 header:
@@ -12,5 +12,7 @@ header:
   caption: "Photo credit: [**Mathieu Stern**](https://unsplash.com/ja/@mathieustern)"
 ---
 
-# Everything is under construction.
+# Wow!! Welcome to my space!
+
+
 
