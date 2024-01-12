@@ -1,7 +1,7 @@
 --- 
 #to make sure Jekyll reads this 
 --- 
-
+@import "base";
 @import "default";
 @import "author";
 @import "footer";
@@ -14,4 +14,3 @@
 @import "about";
 @import "page";
 @import "archive";
-@import "base";
