@@ -30,6 +30,8 @@ technical:
   fw:
     - title: ASP .NET CORE MVC 
       level: Intermediate
+    - title: WPF 
+      level: Intermediate
     - title: Django 
       level: Intermediate
 
@@ -49,6 +51,8 @@ technical:
 
   other:
     - title: Docker
+      level: Intermediate
+    - title: Adobe XD
       level: Intermediate
 
 soft:

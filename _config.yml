@@ -114,3 +114,6 @@ defaults:
       comments: false
       share: true
       related: true
+      author: Frederick
+      toc: true
+      toc_sticky: true
