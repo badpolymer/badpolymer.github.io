@@ -2,10 +2,11 @@
 # layout: posts
 title:  "Welcome to Jekyll!"
 date:   2022-01-08 03:27:07 +0000
-categories: work
-description: MEhehehalsd,,sajd
-tags: education
-highlight_home: true
+categories: 
+description: 
+tags: 
+highlight_home: false
+published: false
 header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8

@@ -25,7 +25,7 @@ header:
 
 ![Login page](/assets/images/Screenshot 2024-01-12 at 13-28-29 Home.png)
 
-> To view of this project go to [VirtualClinic GitHub Repo](https://github.com/CC-CAD-23WINTER-Team10/VirtualClinic) and follow the `Instructions`.
+> To view and try out this project, go to [VirtualClinic GitHub Repo](https://github.com/CC-CAD-23WINTER-Team10/VirtualClinic) and follow the `Instructions`.
 
 # Overview
 
