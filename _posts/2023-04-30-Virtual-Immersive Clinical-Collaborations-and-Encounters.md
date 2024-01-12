@@ -9,7 +9,8 @@ tags:
   - Web 
   - Node.js
   - Docker 
-  - TypeScript 
+  - TypeScript
+  - MongoDB 
 highlight_home: true
 # classes: wide
 author: Frederick

@@ -11,6 +11,8 @@ tags:
   - PostgreSQL
   - Docker
   - JSON
+  - TDD
+  - TypeScript
 highlight_home: true
 header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8

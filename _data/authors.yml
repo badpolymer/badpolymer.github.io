@@ -1,7 +1,8 @@
 Frederick:
   name        : "Frederick"
   bio         : "Software Developer / Web Developer / iOS App Developer / Software Tester / Aircraft Maintenance Engineer"
-  avatar      : "https://placehold.co/400"
+  # avatar      : "https://placehold.co/400"
+  avatar      : "assets/images/pic.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
