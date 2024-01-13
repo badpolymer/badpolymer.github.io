@@ -7,6 +7,11 @@ Frederick:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:frederickvision@hotmail.com"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/freddzai/"
+      
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/freddzai410/" 
