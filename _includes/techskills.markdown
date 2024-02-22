@@ -1,10 +1,7 @@
-<!-- | Programming Language | Level | -->
-<!-- | ---- | ---- | -->
 | Programming Language |
 | ---- |
 {% assign languages = site.data.skills.technical.lang | sort: "title" -%}
 {% for lang in languages -%}
-<!-- | {{lang.title}} | {{lang.level}} | -->
 | {{lang.title}} |
 {% endfor %}
 
