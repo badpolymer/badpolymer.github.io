@@ -1,33 +1,36 @@
-| Programming Language | Level |
-| ---- | ---- |
+<!-- | Programming Language | Level | -->
+<!-- | ---- | ---- | -->
+| Programming Language |
+| ---- |
 {% assign languages = site.data.skills.technical.lang | sort: "title" -%}
 {% for lang in languages -%}
-| {{lang.title}} | {{lang.level}} |
+<!-- | {{lang.title}} | {{lang.level}} | -->
+| {{lang.title}} |
 {% endfor %}
 
 <br>
 
-| Database and related | Level |
-| ---- | ---- |
+| Database and related |
+| ---- |
 {% assign dbs = site.data.skills.technical.db | sort: "title" -%}
 {% for db in dbs -%}
-| {{db.title}} | {{db.level}} |
+| {{db.title}} |
 {% endfor %}
 
 <br>
 
-| Framework | Level |
-| ---- | ---- |
+| Framework |
+| ---- |
 {% assign fws = site.data.skills.technical.fw | sort: "title" -%}
 {% for fw in fws -%}
-| {{fw.title}} | {{fw.level}} |
+| {{fw.title}} |
 {% endfor %}
 
 <br>
 
-| Quality Assurance | Level |
-| ---- | ---- |
+| Quality Assurance |
+| ---- |
 {% assign qas = site.data.skills.technical.qa | sort: "title" -%}
 {% for qa in qas -%}
-| {{qa.title}} | {{qa.level}} |
+| {{qa.title}} |
 {% endfor %}
