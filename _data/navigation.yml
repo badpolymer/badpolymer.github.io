@@ -8,7 +8,7 @@ main:
     url: /about/
   - title: "My Work"
     url: /mywork/
-  # - title: "Ongoing Projects"
-  #   url: /404/
+  - title: "Ongoing Projects"
+    url: /proj/
   - title: "Posts By Year"
     url: /postsbyyear/
