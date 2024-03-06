@@ -1,6 +1,6 @@
 ---
 # layout: posts 
-title:  "New Next.js project"
+title:  "Cantonese Dictionary"
 date:   2024-02-26 03:27:07 +0000
 categories: work
 description: New site is under construction.
@@ -8,12 +8,14 @@ tags:
 highlight_home: true
 ongoing: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1625470496744-a01bf36a262f
-  teaser: https://images.unsplash.com/photo-1625470496744-a01bf36a262f
-  caption: "Photo credit: [**Mathieu Stern**](https://unsplash.com/ja/@mathieustern)"
+  overlay_image: /assets/images/Screenshot 2024-03-06 at 14-50-50 https __badpolymer.github.io.png
+  teaser: /assets/images/Screenshot 2024-03-06 at 14-50-50 https __badpolymer.github.io.png
+  # caption: "Photo credit: [**Mathieu Stern**](https://unsplash.com/ja/@mathieustern)"
 ---
 
 # Tsz
+
+## Next.js with GitHub Page
 
 [Temporary link](https://badpolymer.github.io/Tsz)
 
