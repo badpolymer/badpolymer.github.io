@@ -10,7 +10,7 @@ technical:
       level: Intermediate
     - title: Swift 
       level: Intermediate
-    - title: C++ 
+    - title: C 
       level: Beginner
   
   db:
@@ -33,6 +33,10 @@ technical:
     - title: WPF 
       level: Intermediate
     - title: Django 
+      level: Intermediate
+    - title: React.JS 
+      level: Intermediate
+    - title: Next.JS 
       level: Intermediate
 
   qa:
